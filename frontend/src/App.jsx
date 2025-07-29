@@ -1,12 +1,12 @@
 import React from 'react'
 import { Navigate, Route, Routes } from 'react-router';
-import HomePage from './pages/HomePage.jsx';
-import LoginPage from './pages/LoginPage.jsx';
-import SignUpPage from './pages/SignUpPage.jsx';
-import OnboardingPage from './pages/OnboardingPage.jsx';
-import NotificationPage from './pages/NotificationPage.jsx';
-import CallPage from './pages/CallPage.jsx';
-import ChatPage from './pages/ChatPage.jsx';
+import HomePage from './Pages/HomePage.jsx';
+import LoginPage from './Pages/LoginPage.jsx';
+import SignUpPage from './Pages/SignUpPage.jsx';
+import OnboardingPage from './Pages/OnboardingPage.jsx';
+import NotificationPage from './Pages/NotificationPage.jsx';
+import CallPage from './Pages/CallPage.jsx';
+import ChatPage from './Pages/ChatPage.jsx';
 import { Toaster } from 'react-hot-toast';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import useAuthUser from './hooks/useAuthUser.js';
