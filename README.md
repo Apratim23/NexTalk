@@ -85,7 +85,7 @@ To contribute:
 - Open a pull request
 
 ## 🛡️ License
-This project is licensed under the MIT License. See the LICENSE file for more info.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Apratim23/NexTalk/blob/main/LICENSE) file for more info.
 
 ## 👨‍💻 Developer
 Developed by [@Apratim23](https://github.com/Apratim23) 💓
